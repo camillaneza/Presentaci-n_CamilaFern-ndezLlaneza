@@ -4,7 +4,7 @@
 
 Estoy estudiando en Soy Henry la carrera de Ciencia de Datos. :mortar_board:
 
-Estoy abierta a oportunidades laborales relacionadas con Machine Learning y Análisis de datos.:chart_with_downwards_trend:
+Estoy abierta a oportunidades laborales relacionadas con Machine Learning y Análisis de datos.:briefcase:
 
 :wrench: Habilidades técnicas:
 
