@@ -1,9 +1,13 @@
 :wave: ¡Hola! Soy Camila Fernández Llaneza
-:information_desk_person: Sobre mi
+
+:information_desk_person: Sobre mi:
+
 Estoy estudiando en Soy Henry la carrera de Ciencia de Datos. :mortar_board:
+
 Estoy abierta a oportunidades laborales relacionadas con Machine Learning y Análisis de datos.:chart_with_downwards_trend:
 
-:wrench: Habilidades técnicas
+:wrench: Habilidades técnicas:
+
 Python, SQL, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn, Fastapi :computer:
 SQL, Mysql, Cassandra :books:
 Docker, Apache Hadoop, Apache Hive, Apache Spark 🗃️
